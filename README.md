@@ -1,0 +1,2 @@
+# premium-anneal-copper-001-copper-annealing-soft-heat-t
+Tired of inconsistent copper annealing results and wasted material? Your soft heat treat process needs a single source of truth—not a notebook full of scribbles.  The Copper Annealing &amp; Soft Heat Treat Craft Hub is a Notion template designed to bring precision and repeatability to your annealing workflow. It replaces guesswork with a structured sys
